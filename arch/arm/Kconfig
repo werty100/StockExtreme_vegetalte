@@ -1460,6 +1460,7 @@ config L9100_MRS_A01
 endmenu
 
 source "arch/arm/common/Kconfig"
+source "arch/arm/hotplug/Kconfig"
 
 menu "Bus support"
 
