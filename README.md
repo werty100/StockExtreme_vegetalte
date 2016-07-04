@@ -15,4 +15,5 @@ clone the project:
 
 After it, choose the version you would like to build:
 Set your gcc and folder kernel name  inside build-vegetalte.sh.
+
 ./build-vegetalte.sh
